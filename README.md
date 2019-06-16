@@ -14,6 +14,8 @@ How to use python without installing python:
 	- Download new csv
 	- Connect google drive to google collaboratory and save in there
 
+See this part on google colaboratory: [Link to notebook](https://colab.research.google.com/drive/1C3I5LUW8FK41CwFSD_XVIcJSnQ0exGLQ) 
+See the video of this part [Link](https://youtu.be/afbW6TVWYPA)
 References: https://colab.research.google.com/notebooks/io.ipynb#scrollTo=RWSJpsyKqHjH
 
 
@@ -46,8 +48,9 @@ References: https://colab.research.google.com/notebooks/io.ipynb#scrollTo=RWSJps
 
 
 
-
-
+ffmpeg -i part1.mp4 -ss 00:00:05 -t 00:33:56  -vcodec copy -acodec copy part1_cut.mp4
+5
+34
 
 
 
