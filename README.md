@@ -14,8 +14,11 @@ How to use python without installing python:
 	- Download new csv
 	- Connect google drive to google collaboratory and save in there
 
-See this part on google colaboratory: [Link to notebook](https://colab.research.google.com/drive/1C3I5LUW8FK41CwFSD_XVIcJSnQ0exGLQ) 
-See the video of this part [Link](https://youtu.be/afbW6TVWYPA)
+See the data for this part [Link](https://github.com/bsaldivaremc2/python_for_non_pythoners/tree/master/part1)  
+See this part on google colaboratory: [Link to notebook](https://colab.research.google.com/drive/1C3I5LUW8FK41CwFSD_XVIcJSnQ0exGLQ)   
+See the code of this part [Link](https://github.com/bsaldivaremc2/python_for_non_pythoners/blob/master/part1/part_1_files.ipynb)  
+See the video of this part [Link](https://youtu.be/afbW6TVWYPA)  
+
 References: https://colab.research.google.com/notebooks/io.ipynb#scrollTo=RWSJpsyKqHjH
 
 
